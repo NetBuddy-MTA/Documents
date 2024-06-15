@@ -4,7 +4,7 @@ Contains the documents associated with the NetBuddy project.
 # Presented By:
 Omer Erlichman
 Dana Chesner
-Itamar 
+Itamar Fisher
 
 # Project Document
 
